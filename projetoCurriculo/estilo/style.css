@@ -4,8 +4,8 @@
 }
 h1{
     font-size: 32px;
-    color: black;
-    background-color:violet;
+    color: blue
+    background-color: lightblue;
     text-align: center;
     border-style: solid;
 }
